@@ -1,0 +1,102 @@
+
+ /*!
+ * Start Bootstrap - Business Casual v5.0.11 (https://startbootstrap.com/theme/business-casual)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-business-casual/blob/master/LICENSE)
+ */body{font-family:Lora;
+   background-image:linear-gradient(rgba(17, 0, 255, 0.473),rgb(255, 176, 4)),url(bg.jpg);
+   background-attachment:fixed;
+   background-position:center;
+   background-size:cover;
+   color:white
+  }
+ 
+   h1,h2,h3,h4,h5,h6
+  {font-family:Raleway}
+ 
+  p{line-height:1.75}
+ 
+  .text-faded{color:rgba(255, 255, 255, 0.938)}
+ 
+  .site-heading{margin-top:5rem;margin-bottom:5rem;text-transform:uppercase;line-height:1;font-family:Raleway; color:rgb(255, 176, 4);} 
+ 
+  .site-heading .site-heading-upper{display:block;font-size:2rem;font-weight:800;}
+
+  .site-heading .site-heading-lower{font-size:5rem;font-weight:100;line-height:4rem}
+ 
+  .page-section{margin-top:5rem;margin-bottom:5rem;}
+ 
+  .section-heading{text-transform:uppercase}
+ 
+  .section-heading .section-heading-upper{display:block;font-size:1rem;font-weight:800;}
+ 
+  .section-heading .section-heading-lower{display:block;font-size:2rem;font-weight:100;}
+ 
+  .bg-faded{background-color:rgba(255,255,255,.85)}
+ 
+  #mainNav{background-color:rgba(0, 0, 0, 0.432);font-family:Raleway}
+ 
+  #mainNav .navbar-brand{color:rgb(255, 176, 4)}
+ 
+  #mainNav .navbar-nav .nav-item .nav-link{color:rgba(255,255,255,.7);font-weight:800}
+ 
+  #mainNav .navbar-nav .nav-item.active .nav-link{color:rgb(255, 176, 4)}
+ @media (min-width:992px)
+ {
+   
+  #mainNav .navbar-nav .nav-item .nav-link{font-size:.9rem}
+ 
+  #mainNav .navbar-nav .nav-item .nav-link:hover{color:rgb(255, 176, 4)}
+ 
+  #mainNav .navbar-nav .nav-item.active .nav-link:hover{color:rgb(255, 176, 4)}
+  }
+  .text-primary{color:rgb(255, 176, 4)!important}
+.footer{background-color:rgba(0, 0, 0, 0.432)}
+
+@media screen and (max-width:100px){
+  body{
+    width:100%;
+  }
+  header{
+    width:100%;
+  }
+  head{
+    width:100%;
+    height: auto;
+  }
+  nav{
+    width:100%;
+  }
+}
+
+@media screen and (max-width:100px){
+  div{
+    width:100%;
+  }
+  section{
+    width:100%;
+  }
+  footer{
+    width:100%;
+  }
+  img{
+    width:100%;
+    height: 500px;
+    
+    }
+}
+@media screen and (max-width:100px){
+  article{
+    width:100%;
+  }
+
+}
+.venta{
+    width: 500px;
+    height: 500px;
+    border: solid black 5px;
+}
+.display-4{
+  font-size: xx-large;
+
+}

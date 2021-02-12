@@ -1,0 +1,145 @@
+
+ /*!
+ * Start Bootstrap - Business Casual v5.0.11 (https://startbootstrap.com/theme/business-casual)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-business-casual/blob/master/LICENSE)
+ */body{font-family:Lora;
+  background-image:linear-gradient(rgba(17, 0, 255, 0.473),rgb(255, 176, 4)),url(bg.jpg);
+  background-attachment:fixed;
+  background-position:center;
+  background-size:cover;
+  
+}
+
+  h1,h2,h3,h4,h5,h6
+ {font-family:Raleway}
+
+ p{line-height:1.75}
+
+ .text-faded{color:rgba(255, 255, 255, 0.938)}
+
+ .site-heading{margin-top:5rem;margin-bottom:5rem;text-transform:uppercase;line-height:1;font-family:Raleway; color:rgb(255, 176, 4);} 
+
+ .site-heading .site-heading-upper{display:block;font-size:2rem;font-weight:800;}
+
+ .site-heading .site-heading-lower{font-size:5rem;font-weight:100;line-height:4rem}
+
+ .page-section{margin-top:5rem;margin-bottom:5rem;}
+
+ .section-heading{text-transform:uppercase}
+
+ .section-heading .section-heading-upper{display:block;font-size:1rem;font-weight:800;}
+
+ .section-heading .section-heading-lower{display:block;font-size:2rem;font-weight:100;}
+
+ .bg-faded{background-color:rgba(255,255,255,.85)}
+
+ #mainNav{background-color:rgba(0, 0, 0, 0.432);font-family:Raleway}
+
+ #mainNav .navbar-brand{color:rgb(255, 176, 4)}
+
+ #mainNav .navbar-nav .nav-item .nav-link{color:rgba(255,255,255,.7);font-weight:800}
+
+ #mainNav .navbar-nav .nav-item.active .nav-link{color:rgb(255, 176, 4)}
+@media (min-width:992px)
+{
+  
+ #mainNav .navbar-nav .nav-item .nav-link{font-size:.9rem}
+
+ #mainNav .navbar-nav .nav-item .nav-link:hover{color:rgb(255, 176, 4)}
+
+ #mainNav .navbar-nav .nav-item.active .nav-link:hover{color:rgb(255, 176, 4)}
+ }
+ .text-primary{color:rgb(255, 176, 4)!important}
+.footer{background-color:rgba(0, 0, 0, 0.432)}
+@media screen and (max-width:100px){
+ body{
+   width:100%;
+ }
+ header{
+   width:100%;
+ }
+ head{
+   width:100%;
+   height: auto;
+ }
+ nav{
+   width:100%;
+ }
+}
+
+@media screen and (max-width:500px){
+ div{
+   width:100%;
+ }
+ section{
+   width:100%;
+ }
+ footer{
+   width:100%;
+ }
+ img{
+   width:100%;
+   height: 700px;
+   
+   }
+}
+@media screen and (max-width:500px){
+ article{
+   width:100%;
+ }
+
+}
+.img-fluid{
+   width: 500px;
+   height: 700px;
+   border: transparent;
+   margin-left: 90px;
+}
+ /*contenido*/
+
+  #titulo1{
+  border:double rgb(5, 155, 117);
+  padding:10px;
+  scroll-padding-top: 10px;
+  display: inline-block;
+  width: 972px;
+  text-align-last: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size:x-large;
+  color:orangered;
+  text-align: center;
+  background-color:rgb(91, 201, 106);
+  }
+
+#texto{
+text-align: center;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: rgb(71, 71, 71);
+width: 50%;
+margin-left: 25%;
+}
+
+.redes_contacto2{
+  width:85px;
+  height:85px;
+  margin-left: 210px;
+  margin-top: 153px;
+  margin-bottom: 83px;
+  margin-right: 53px;
+  float:left;
+  border:#fff solid 4px;
+  
+}
+.m-0{
+  color: #fff;
+}
+.mapa {
+  width: 100%;
+  height: 700px;
+
+}
+
+th{
+  margin-left: 250px;
+}
